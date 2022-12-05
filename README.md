@@ -1,18 +1,13 @@
-### Hi there 👋
+<h2 align="center">Software Engineering Student</h2>
 
-![Thinato's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinato&layout=compact&langs_count=16&theme=chartreuse-dark)
+<div>
+    <img alt="Thinato's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinato&theme=chartreuse-dark">
+    <img align="right" alt="Thinato's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thinato&show_icons=true&theme=chartreuse-dark">
+</div>
+<div>
+    <script src='scr/script.js'></script>
+</div>
+<!-- 
+![Thinato's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinato&layout=compact&langs_count=16&theme=chartreuse-dark) -->
 
-<!--
-**Thinato/Thinato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
