@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[!Thinato's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinato&layout=compact&langs_count=16&theme=chartreuse-dark)
+![Thinato's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinato&layout=compact&langs_count=16&theme=chartreuse-dark)
 
 <!--
 **Thinato/Thinato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
